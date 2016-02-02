@@ -1,0 +1,41 @@
+50:40
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                  x         x                   x
+x                  x         x                   x
+x   x xxxxxxx  x   x         x                   x
+x   x x     x  x   x         x                   x
+x   x xxxxxxx  x   x         x                   x
+x   x    E     x   x         x                   x
+x   x          x   x         x                   x
+x   xxxxxxxxxxxx   x         x                   x
+x                  x         x                   x
+xxxxxxxxxxxxxx     x         x                   x
+x                  x         x                   x
+x                  x         x                   x
+x                  x         x                   x
+x                                                x
+x                                                x
+x                                                x
+x                                                x
+x                  x         x                   x
+x                  x         x                   x
+x                  x         x                   x
+x                  x         x                   x
+xxxxxxxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxxxxxxx
+x                  x         x                   x
+x                  x         x                   x
+x                  x         x                   x
+x                  x         x                   x
+x                  x         x                   x
+xxx                x         x                   x
+x3x                                              x
+x2x                                              x
+x1x                                              x
+x          xxxxxxxxx         x                   x
+x          x                 x                   x
+x          x                 x                   x
+x          x                 x                   x
+x          x                 x                   x
+x          x                 x                   x
+x          x                 x                   x
+xxxxxxDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
